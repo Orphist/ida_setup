@@ -5,35 +5,5 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>*.s</mask>
-      <mask>*.jso</mask>
-      <mask>*.json</mask>
-      <mask>*.jsn</mask>
-      <mask>*.</mask>
-      <mask>*.rb</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*e.js</mask>
-      <mask>*essa.js</mask>
-      <mask>*essa*.js</mask>
-      <mask>**.yml</mask>
-      <mask>**.s</mask>
-      <mask>**.r</mask>
-      <mask>**.js</mask>
-      <mask>**.j</mask>
-      <mask>**.</mask>
-      <mask>**.rb</mask>
-    </recentFileMasks>
   </component>
 </application>
