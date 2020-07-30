@@ -3290,6 +3290,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/crass-1.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="creek (v2.5.2, RVM: ruby-2.6.6 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/creek-2.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/creek-2.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="csv (v3.0.9, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.5/lib/ruby/2.6.0/csv/core_ext" />
