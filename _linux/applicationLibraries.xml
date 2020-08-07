@@ -337,6 +337,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/active_model_serializers-b1b253f5a8de/test" />
       </excluded>
     </library>
+    <library name="active_record_query_trace (v1.7, RVM: ruby-2.6.6 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/active_record_query_trace-1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/active_record_query_trace-1.7/lib" />
+      </SOURCES>
+    </library>
     <library name="activeadmin (v1.4.3@007353, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/bundler/gems/activeadmin-007353a24395/app" />
