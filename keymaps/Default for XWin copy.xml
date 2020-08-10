@@ -17,6 +17,7 @@
   </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorJoinLines" />
+  <action id="EditorMatchBrace" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="alt u" />
@@ -32,6 +33,10 @@
   </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
   <action id="MethodHierarchy" />
   <action id="OpenFile">
