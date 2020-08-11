@@ -1,6 +1,17 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="ctrl #1000441" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="ctrl #100043c" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
+    <keyboard-shortcut first-keystroke="alt #1000445" />
   </action>
   <action id="ChangesView.Shelve">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
@@ -14,6 +25,10 @@
   <action id="DatabaseView.CopyDdlAction" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="ctrl #1000441" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl #100043c" />
   </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorJoinLines" />
@@ -22,11 +37,17 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="ctrl #1000430" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
+    <keyboard-shortcut first-keystroke="alt #100044a" />
   </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
