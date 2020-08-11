@@ -9,6 +9,11 @@
     <keyboard-shortcut first-keystroke="shift insert" />
     <keyboard-shortcut first-keystroke="ctrl #100043c" />
   </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl #100044f" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
     <keyboard-shortcut first-keystroke="alt #1000445" />
@@ -29,6 +34,9 @@
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl #100043c" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="ctrl #100044f" />
   </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorJoinLines" />
@@ -55,13 +63,20 @@
   </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
+    <keyboard-shortcut first-keystroke="shift ctrl #1000441" />
   </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
+    <keyboard-shortcut first-keystroke="ctrl alt #1000447" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl #1000442" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="shift ctrl m" />
+    <keyboard-shortcut first-keystroke="shift ctrl #100044c" />
   </action>
   <action id="MethodHierarchy" />
   <action id="OpenFile">
