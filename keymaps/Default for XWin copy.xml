@@ -1,6 +1,7 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
+    <keyboard-shortcut first-keystroke="alt #1000445" />
   </action>
   <action id="CollapseSelection" />
   <action id="CommentByLineComment">
@@ -8,21 +9,36 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl #1000432" />
+  </action>
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl #1000432" />
+  </action>
   <action id="EditorChooseLookupItemDot" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="shift ctrl #1000430" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
+    <keyboard-shortcut first-keystroke="alt #100044a" />
   </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
+    <keyboard-shortcut first-keystroke="shift ctrl #1000441" />
   </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
+    <keyboard-shortcut first-keystroke="ctrl alt #1000447" />
   </action>
   <action id="RunToCursor" />
   <action id="XPathView.Actions.Evaluate" />
