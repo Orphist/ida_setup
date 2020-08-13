@@ -2244,11 +2244,13 @@
     </library>
     <library name="byebug (v11.0.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/11.0.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.0.1/exe" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.0.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.0.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/11.0.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.0.1/exe" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.0.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.0.1/lib" />
@@ -5265,11 +5267,13 @@
     </library>
     <library name="ffi (v1.11.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.11.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.11.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.11.1/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.11.1/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.11.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.11.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.11.1/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.11.1/samples" />
@@ -6907,10 +6911,12 @@
     </library>
     <library name="jaro_winkler (v1.5.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.3" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/jaro_winkler-1.5.3/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/jaro_winkler-1.5.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.3" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/jaro_winkler-1.5.3/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/jaro_winkler-1.5.3/lib" />
       </SOURCES>
@@ -9067,12 +9073,14 @@
     </library>
     <library name="nokogiri (v1.10.5, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.5" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.5/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.5/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.5/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.5/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.5" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.5/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.5/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.5/lib" />
@@ -9247,12 +9255,14 @@
     </library>
     <library name="oj (v3.9.2, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.9.2" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.9.2/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.9.2/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.9.2/test" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.9.2/pages" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.9.2" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.9.2/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.9.2/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.9.2/test" />
@@ -13201,12 +13211,14 @@
     </library>
     <library name="ruby-prof (v1.0.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-prof/1.0.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.0.0/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.0.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.0.0/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.0.0/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-prof/1.0.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.0.0/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.0.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.0.0/lib" />
@@ -13666,11 +13678,13 @@
     </library>
     <library name="sassc (v2.2.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/2.2.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.2.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.2.1/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.2.1/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/2.2.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.2.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.2.1/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.2.1/test" />
@@ -14606,6 +14620,7 @@
     </library>
     <library name="stackprof (v0.2.13, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.13" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.13/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.13/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.13/lib" />
@@ -14613,6 +14628,7 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.13/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.13" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.13/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.13/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.13/lib" />
@@ -16066,11 +16082,13 @@
     </library>
     <library name="websocket-driver (v0.6.5, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/websocket-driver-0.6.5/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/websocket-driver-0.6.5/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/websocket-driver-0.6.5/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/websocket-driver-0.6.5/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/websocket-driver-0.6.5/examples" />
