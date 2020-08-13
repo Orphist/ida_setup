@@ -2,17 +2,26 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
+  <action id="ChangesView.Shelve">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="CollapseSelection" />
+  <action id="CommentByBlockComment" />
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl slash" />
-    <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorJoinLines" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
   <action id="Forward">
@@ -24,8 +33,17 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
+  <action id="MethodHierarchy" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="OverrideMethods" />
   <action id="RunToCursor" />
-  <action id="XPathView.Actions.Evaluate" />
-  <action id="XPathView.Actions.FindByExpression" />
-  <action id="XPathView.Actions.ShowPath" />
+  <action id="ShowSettings" />
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="shift ctrl j" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
 </keymap>
