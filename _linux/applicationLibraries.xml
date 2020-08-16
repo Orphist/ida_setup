@@ -337,6 +337,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/active_model_serializers-b1b253f5a8de/test" />
       </excluded>
     </library>
+    <library name="active_record_query_trace (v1.7, RVM: ruby-2.6.6 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/active_record_query_trace-1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/active_record_query_trace-1.7/lib" />
+      </SOURCES>
+    </library>
     <library name="activeadmin (v1.4.3@007353, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/bundler/gems/activeadmin-007353a24395/app" />
@@ -1473,21 +1481,13 @@
     </library>
     <library name="bcrypt (v3.1.12, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.12" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/bcrypt-3.1.12/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/bcrypt-3.1.12/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.12" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/bcrypt-3.1.12/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/bcrypt-3.1.12/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/bcrypt-3.1.12/spec" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/bcrypt-3.1.12/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/bcrypt-3.1.12/spec" />
-      </excluded>
     </library>
     <library name="bcrypt (v3.1.13, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
@@ -1507,23 +1507,15 @@
     </library>
     <library name="bcrypt (v3.1.13, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.13" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.13" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bcrypt-3.1.13/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bcrypt-3.1.13/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bcrypt-3.1.13/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.13" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.13" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bcrypt-3.1.13/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bcrypt-3.1.13/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bcrypt-3.1.13/spec" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bcrypt-3.1.13/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bcrypt-3.1.13/spec" />
-      </excluded>
     </library>
     <library name="benchmark-ips (v2.7.2, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
@@ -1652,44 +1644,25 @@
     </library>
     <library name="bindex (v0.8.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bindex/0.8.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.8.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bindex-0.8.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bindex-0.8.1/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bindex-0.8.1/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bindex/0.8.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.8.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bindex-0.8.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bindex-0.8.1/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bindex-0.8.1/test" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bindex-0.8.1/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bindex-0.8.1/test" />
-      </excluded>
     </library>
     <library name="binding_of_caller (v0.8.0, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/binding_of_caller/0.8.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/binding_of_caller-0.8.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/binding_of_caller-0.8.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/binding_of_caller-0.8.0/test" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/binding_of_caller-0.8.0/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/binding_of_caller/0.8.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/binding_of_caller-0.8.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/binding_of_caller-0.8.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/binding_of_caller-0.8.0/test" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/binding_of_caller-0.8.0/examples" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/binding_of_caller-0.8.0/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/binding_of_caller-0.8.0/test" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/binding_of_caller-0.8.0/examples" />
-      </excluded>
     </library>
     <library name="bootsnap (v1.4.5, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
@@ -1712,7 +1685,6 @@
     </library>
     <library name="bootsnap (v1.4.5, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.4.5" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.4.5" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bootsnap-1.4.5/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bootsnap-1.4.5/ext" />
@@ -1720,18 +1692,12 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bootsnap-1.4.5/.github" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.4.5" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.4.5" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bootsnap-1.4.5/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bootsnap-1.4.5/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bootsnap-1.4.5/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bootsnap-1.4.5/.github" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bootsnap-1.4.5/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bootsnap-1.4.5/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/bootsnap-1.4.5/.github" />
-      </excluded>
     </library>
     <library name="bootsnap (v1.4.6, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -2210,21 +2176,15 @@
     </library>
     <library name="byebug (v10.0.2, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/byebug/10.0.2" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/byebug-10.0.2/exe" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/byebug-10.0.2/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/byebug/10.0.2" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/byebug-10.0.2/exe" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/byebug-10.0.2/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/byebug-10.0.2/lib" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/byebug-10.0.2/exe" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/byebug-10.0.2/ext" />
-      </excluded>
     </library>
     <library name="byebug (v11.0.1, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
@@ -2262,43 +2222,29 @@
     </library>
     <library name="byebug (v11.1.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/byebug/11.1.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/11.1.3" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.1.3/exe" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.1.3/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.1.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/byebug/11.1.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/11.1.3" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.1.3/exe" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.1.3/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.1.3/lib" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.1.3/exe" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/byebug-11.1.3/ext" />
-      </excluded>
     </library>
     <library name="c_geohash (v1.1.2, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/c_geohash/1.1.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/c_geohash/1.1.2" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/c_geohash-1.1.2/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/c_geohash-1.1.2/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/c_geohash-1.1.2/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/c_geohash/1.1.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/c_geohash/1.1.2" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/c_geohash-1.1.2/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/c_geohash-1.1.2/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/c_geohash-1.1.2/test" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/c_geohash-1.1.2/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/c_geohash-1.1.2/test" />
-      </excluded>
     </library>
     <library name="cancan (v1.6.10, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
@@ -3346,6 +3292,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/crass-1.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="creek (v2.5.2, RVM: ruby-2.6.6 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/creek-2.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/creek-2.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="csv (v3.0.9, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.5/lib/ruby/2.6.0/csv/core_ext" />
@@ -3425,20 +3379,15 @@
     </library>
     <library name="curb (v0.9.8, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/curb/0.9.8" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/curb-0.9.8/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/curb-0.9.8/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/curb-0.9.8/tests" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/curb/0.9.8" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/curb-0.9.8/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/curb-0.9.8/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/curb-0.9.8/tests" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/curb-0.9.8/tests" />
-      </excluded>
     </library>
     <library name="daemons (v1.3.1, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
@@ -3508,21 +3457,13 @@
     </library>
     <library name="debug_inspector (v0.0.3, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/debug_inspector/0.0.3" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/debug_inspector-0.0.3/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/debug_inspector-0.0.3/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/debug_inspector/0.0.3" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/debug_inspector-0.0.3/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/debug_inspector-0.0.3/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/debug_inspector-0.0.3/test" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/debug_inspector-0.0.3/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/debug_inspector-0.0.3/test" />
-      </excluded>
     </library>
     <library name="deep_merge (v1.2.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -5233,21 +5174,15 @@
     </library>
     <library name="ffi (v1.10.0, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.10.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ffi-1.10.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ffi-1.10.0/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ffi-1.10.0/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.10.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ffi-1.10.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ffi-1.10.0/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ffi-1.10.0/samples" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ffi-1.10.0/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ffi-1.10.0/samples" />
-      </excluded>
     </library>
     <library name="ffi (v1.11.1, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
@@ -5285,7 +5220,6 @@
     </library>
     <library name="ffi (v1.13.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.13.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.13.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.13.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.13.1/lib" />
@@ -5293,18 +5227,12 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.13.1/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.13.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.13.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.13.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.13.1/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.13.1/.github" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.13.1/samples" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.13.1/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.13.1/.github" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ffi-1.13.1/samples" />
-      </excluded>
     </library>
     <library name="ffi-compiler (v1.0.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -6313,22 +6241,17 @@
     </library>
     <library name="hiredis (v0.6.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/hiredis/0.6.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/hiredis/0.6.3" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/hiredis-0.6.3/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/hiredis-0.6.3/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/hiredis-0.6.3/vendor" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/hiredis/0.6.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/hiredis/0.6.3" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/hiredis-0.6.3/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/hiredis-0.6.3/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/hiredis-0.6.3/vendor" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/hiredis-0.6.3/ext" />
-      </excluded>
     </library>
     <library name="html2haml (v2.2.0, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
@@ -6458,29 +6381,19 @@
     </library>
     <library name="http_parser.rb (v0.6.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/http_parser.rb/0.6.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/spec" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/bench" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/http_parser.rb/0.6.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/spec" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/bench" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/tasks" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/spec" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/bench" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http_parser.rb-0.6.0/tasks" />
-      </excluded>
     </library>
     <library name="httparty (v0.16.2, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -6926,20 +6839,15 @@
     </library>
     <library name="jaro_winkler (v1.5.4, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.4" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/jaro_winkler-1.5.4/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/jaro_winkler-1.5.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.4" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/jaro_winkler-1.5.4/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/jaro_winkler-1.5.4/lib" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/jaro_winkler-1.5.4/ext" />
-      </excluded>
     </library>
     <library name="jbuilder (v2.10.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -7149,7 +7057,6 @@
     </library>
     <library name="json (v2.3.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/2.3.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.3.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json-2.3.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json-2.3.0/lib" />
@@ -7160,7 +7067,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json-2.3.0/references" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/2.3.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.3.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json-2.3.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json-2.3.0/lib" />
@@ -7170,14 +7076,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json-2.3.0/diagrams" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json-2.3.0/references" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json-2.3.0/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json-2.3.0/java" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json-2.3.0/tests" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json-2.3.0/tools" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json-2.3.0/diagrams" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json-2.3.0/references" />
-      </excluded>
     </library>
     <library name="json (v2.3.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -7639,26 +7537,17 @@
     </library>
     <library name="libxml-ruby (v3.1.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/libxml-ruby/3.1.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libxml-ruby/3.1.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/libxml-ruby-3.1.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/libxml-ruby-3.1.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/libxml-ruby-3.1.0/test" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/libxml-ruby-3.1.0/script" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/libxml-ruby/3.1.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libxml-ruby/3.1.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/libxml-ruby-3.1.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/libxml-ruby-3.1.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/libxml-ruby-3.1.0/test" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/libxml-ruby-3.1.0/script" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/libxml-ruby-3.1.0/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/libxml-ruby-3.1.0/test" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/libxml-ruby-3.1.0/script" />
-      </excluded>
     </library>
     <library name="libxml-ruby (v3.2.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -8511,29 +8400,19 @@
     </library>
     <library name="msgpack (v1.3.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/msgpack/1.3.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.3.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/spec" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/bench" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/doclib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/msgpack/1.3.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.3.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/spec" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/bench" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/doclib" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/spec" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/bench" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/msgpack-1.3.1/doclib" />
-      </excluded>
     </library>
     <library name="msgpack (v1.3.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -8938,27 +8817,15 @@
     </library>
     <library name="nio4r (v2.3.1, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.3.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/spec" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/tasks" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.3.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/spec" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/tasks" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/examples" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/spec" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/tasks" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.3.1/examples" />
-      </excluded>
     </library>
     <library name="nio4r (v2.5.2, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
@@ -8984,54 +8851,34 @@
     </library>
     <library name="nio4r (v2.5.2, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.5.2" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/spec" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/rakelib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.5.2" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/spec" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/rakelib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/examples" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/spec" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/rakelib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nio4r-2.5.2/examples" />
-      </excluded>
     </library>
     <library name="nokogiri (v1.10.1, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/patches" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/patches" />
-      </excluded>
     </library>
     <library name="nokogiri (v1.10.10, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.10" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.10" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.10/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.10/ext" />
@@ -9039,18 +8886,12 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.10/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.10" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.10" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.10/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.10/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.10/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.10/patches" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.10/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.10/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/nokogiri-1.10.10/patches" />
-      </excluded>
     </library>
     <library name="nokogiri (v1.10.5, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
@@ -9211,47 +9052,29 @@
     </library>
     <library name="oj (v3.10.7, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/oj/3.10.7" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.10.7" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.10.7/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.10.7/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.10.7/test" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.10.7/pages" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/oj/3.10.7" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.10.7" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.10.7/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.10.7/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.10.7/test" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.10.7/pages" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.10.7/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.10.7/test" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/oj-3.10.7/pages" />
-      </excluded>
     </library>
     <library name="oj (v3.7.8, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/oj/3.7.8" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/oj-3.7.8/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/oj-3.7.8/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/oj-3.7.8/test" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/oj-3.7.8/pages" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/oj/3.7.8" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/oj-3.7.8/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/oj-3.7.8/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/oj-3.7.8/test" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/oj-3.7.8/pages" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/oj-3.7.8/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/oj-3.7.8/test" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/oj-3.7.8/pages" />
-      </excluded>
     </library>
     <library name="oj (v3.9.2, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -9897,41 +9720,25 @@
     </library>
     <library name="pg (v1.1.4, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/1.1.4" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/pg-1.1.4/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/pg-1.1.4/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/pg-1.1.4/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/1.1.4" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/pg-1.1.4/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/pg-1.1.4/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/pg-1.1.4/spec" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/pg-1.1.4/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/pg-1.1.4/spec" />
-      </excluded>
     </library>
     <library name="pg (v1.1.4, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/1.1.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.1.4" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/pg-1.1.4/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/pg-1.1.4/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/pg-1.1.4/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/1.1.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.1.4" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/pg-1.1.4/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/pg-1.1.4/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/pg-1.1.4/spec" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/pg-1.1.4/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/pg-1.1.4/spec" />
-      </excluded>
     </library>
     <library name="piece_pipe (v0.2.1@be74d5, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
@@ -10513,27 +10320,17 @@
     </library>
     <library name="puma (v3.12.0, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/3.12.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/docs" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/3.12.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/docs" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/tools" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/docs" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/puma-3.12.0/tools" />
-      </excluded>
     </library>
     <library name="puma (v3.12.1, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
@@ -10559,29 +10356,19 @@
     </library>
     <library name="puma (v4.3.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/4.3.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/4.3.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/docs" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/4.3.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/4.3.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/docs" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/tools" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/docs" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/puma-4.3.1/tools" />
-      </excluded>
     </library>
     <library name="puma (v4.3.5, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -11405,41 +11192,29 @@
     </library>
     <library name="rb-fsevent (v0.10.3, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rb-fsevent-0.10.3/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rb-fsevent-0.10.3/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rb-fsevent-0.10.3/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rb-fsevent-0.10.3/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rb-fsevent-0.10.3/lib" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rb-fsevent-0.10.3/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rb-fsevent-0.10.3/ext" />
-      </excluded>
     </library>
     <library name="rb-fsevent (v0.10.4, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.4" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rb-fsevent-0.10.4/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rb-fsevent-0.10.4/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rb-fsevent-0.10.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.4" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rb-fsevent-0.10.4/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rb-fsevent-0.10.4/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rb-fsevent-0.10.4/lib" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rb-fsevent-0.10.4/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rb-fsevent-0.10.4/ext" />
-      </excluded>
     </library>
     <library name="rb-inotify (v0.10.0, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
@@ -13184,30 +12959,15 @@
     </library>
     <library name="ruby-prof (v0.17.0, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ruby-prof/0.17.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/doc" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/test" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ruby-prof/0.17.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/doc" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/test" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/examples" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/doc" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/test" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/ruby-prof-0.17.0/examples" />
-      </excluded>
     </library>
     <library name="ruby-prof (v1.0.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -13232,26 +12992,17 @@
     </library>
     <library name="ruby-prof (v1.3.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ruby-prof/1.3.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-prof/1.3.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.3.1/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.3.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.3.1/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.3.1/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ruby-prof/1.3.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-prof/1.3.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.3.1/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.3.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.3.1/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.3.1/test" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.3.1/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.3.1/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-prof-1.3.1/test" />
-      </excluded>
     </library>
     <library name="ruby-prof (v1.4.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -13696,23 +13447,15 @@
     </library>
     <library name="sassc (v2.4.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/sassc/2.4.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/2.4.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.4.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.4.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.4.0/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/sassc/2.4.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/2.4.0" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.4.0/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.4.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.4.0/test" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.4.0/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.4.0/test" />
-      </excluded>
     </library>
     <library name="sassc-rails (v2.1.2, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
@@ -14522,6 +14265,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="sql_tracker (v1.3.1, RVM: ruby-2.6.6 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sql_tracker-1.3.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sql_tracker-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sql_tracker-1.3.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sql_tracker-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="sqlite3 (v1.4.1, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/sqlite3-1.4.1/ext" />
@@ -14597,26 +14350,17 @@
     </library>
     <library name="stackprof (v0.2.12, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/stackprof/0.2.12" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/stackprof-0.2.12/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/stackprof-0.2.12/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/stackprof-0.2.12/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/stackprof-0.2.12/test" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/stackprof-0.2.12/vendor" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/stackprof/0.2.12" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/stackprof-0.2.12/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/stackprof-0.2.12/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/stackprof-0.2.12/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/stackprof-0.2.12/test" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/stackprof-0.2.12/vendor" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/stackprof-0.2.12/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/stackprof-0.2.12/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/stackprof-0.2.12/test" />
-      </excluded>
     </library>
     <library name="stackprof (v0.2.13, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -14643,28 +14387,19 @@
     </library>
     <library name="stackprof (v0.2.15, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/stackprof/0.2.15" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.15" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.15/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.15/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.15/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.15/test" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.15/vendor" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/stackprof/0.2.15" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.15" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.15/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.15/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.15/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.15/test" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.15/vendor" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.15/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.15/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/stackprof-0.2.15/test" />
-      </excluded>
     </library>
     <library name="statsd-ruby (v1.4.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -14919,24 +14654,17 @@
     </library>
     <library name="thin (v1.7.2, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/thin/1.7.2" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thin-1.7.2/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thin-1.7.2/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thin-1.7.2/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thin-1.7.2/example" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/thin/1.7.2" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thin-1.7.2/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thin-1.7.2/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thin-1.7.2/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thin-1.7.2/example" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thin-1.7.2/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thin-1.7.2/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thin-1.7.2/example" />
-      </excluded>
     </library>
     <library name="thor (v0.19.4, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -16064,21 +15792,13 @@
     </library>
     <library name="websocket-driver (v0.6.5, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.6.5" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-driver-0.6.5/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-driver-0.6.5/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.6.5" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-driver-0.6.5/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-driver-0.6.5/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-driver-0.6.5/examples" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-driver-0.6.5/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-driver-0.6.5/examples" />
-      </excluded>
     </library>
     <library name="websocket-driver (v0.6.5, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -16126,20 +15846,15 @@
     </library>
     <library name="websocket-driver (v0.7.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.3" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/websocket-driver-0.7.3/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/websocket-driver-0.7.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.3" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/websocket-driver-0.7.3/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/websocket-driver-0.7.3/lib" />
       </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/websocket-driver-0.7.3/ext" />
-      </excluded>
     </library>
     <library name="websocket-extensions (v0.1.3, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
