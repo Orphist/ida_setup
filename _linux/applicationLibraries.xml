@@ -6220,6 +6220,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/heapy-0.1.4/weird_memory" />
       </excluded>
     </library>
+    <library name="helix-rails (v0.5.0, RVM: ruby-2.6.6 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/helix-rails-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/helix-rails-0.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="highline (v2.0.3, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/highline-2.0.3/doc" />
