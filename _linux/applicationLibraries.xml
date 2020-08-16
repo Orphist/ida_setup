@@ -3009,6 +3009,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/coffee-script-source-1.12.2/lib" />
       </SOURCES>
     </library>
+    <library name="colorize (v0.8.1, RVM: ruby-2.6.6 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/colorize-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/colorize-0.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="common_structure (v0.3.5@371937, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/common_structure-37193766da9a/bin" />
@@ -13306,6 +13314,16 @@
       <excluded>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rubyzip-2.3.0/samples" />
       </excluded>
+    </library>
+    <library name="rusby (v0.1.2, RVM: ruby-2.6.6 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rusby-0.1.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rusby-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rusby-0.1.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rusby-0.1.2/lib" />
+      </SOURCES>
     </library>
     <library name="russian (v0.6.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
