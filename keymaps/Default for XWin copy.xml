@@ -33,6 +33,14 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl #100044c" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="shift ctrl #100044c" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
