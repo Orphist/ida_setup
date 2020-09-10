@@ -5443,6 +5443,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/fuubar-2.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="gem-wrappers (v1.4.0, RVM: ruby-2.5.2 [reru]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.2@reru/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.2@reru/gems/gem-wrappers-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.2@reru/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.2@reru/gems/gem-wrappers-1.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="geocoder (v1.5.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/geocoder-1.5.1/bin" />
