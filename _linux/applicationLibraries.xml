@@ -6747,6 +6747,18 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json_schemer-0.2.12/.github" />
       </excluded>
     </library>
+    <library name="json_schemer (v0.2.13, RVM: ruby-2.6.6 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json_schemer-0.2.13/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json_schemer-0.2.13/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json_schemer-0.2.13/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json_schemer-0.2.13/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json_schemer-0.2.13/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json_schemer-0.2.13/.github" />
+      </SOURCES>
+    </library>
     <library name="json_schemer (v0.2.8, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/json_schemer-0.2.8/bin" />
