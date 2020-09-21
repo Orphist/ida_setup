@@ -3012,6 +3012,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/concurrent-ruby-1.1.6/lib" />
       </excluded>
     </library>
+    <library name="concurrent-ruby (v1.1.7, RVM: ruby-2.6.6 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/concurrent-ruby-1.1.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/concurrent-ruby-1.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/concurrent-ruby-1.1.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/concurrent-ruby-1.1.7/lib" />
+      </SOURCES>
+    </library>
     <library name="config (v2.2.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/config-2.2.1/lib" />
@@ -7342,6 +7352,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/loofah-2.6.0/benchmark" />
       </excluded>
     </library>
+    <library name="loofah (v2.7.0, RVM: ruby-2.6.6 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/loofah-2.7.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/loofah-2.7.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/loofah-2.7.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/loofah-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
     <library name="mail (v2.7.1, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/mail-2.7.1/lib" />
@@ -7835,6 +7855,14 @@
       <excluded>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/minitest-5.14.1/test" />
       </excluded>
+    </library>
+    <library name="minitest (v5.14.2, RVM: ruby-2.6.6 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/minitest-5.14.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/minitest-5.14.2/lib" />
+      </SOURCES>
     </library>
     <library name="minitest_to_rspec (v0.13.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
