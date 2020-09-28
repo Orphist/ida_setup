@@ -19,6 +19,7 @@
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="arb" type="PLAIN_TEXT" />
+      <mapping ext="go" type="PLAIN_TEXT" />
       <mapping pattern="models/fb2_book.rb" type="Ruby" />
       <mapping pattern="feed_type_validator" type="Ruby" />
       <mapping ext="pck" type="SQL" />
