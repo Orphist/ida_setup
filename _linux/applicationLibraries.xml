@@ -13412,6 +13412,24 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/select2-rails-96839c7643f9/.git" />
       </excluded>
     </library>
+    <library name="semaphore_test_boosters (v0.9.1, RVM: ruby-2.6.6 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/semaphore_test_boosters-0.9.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/semaphore_test_boosters-0.9.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/semaphore_test_boosters-0.9.1/script" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/semaphore_test_boosters-0.9.1/test_data" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/semaphore_test_boosters-0.9.1/test_data_fail" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/semaphore_test_boosters-0.9.1/test_data_pass" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/semaphore_test_boosters-0.9.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/semaphore_test_boosters-0.9.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/semaphore_test_boosters-0.9.1/script" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/semaphore_test_boosters-0.9.1/test_data" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/semaphore_test_boosters-0.9.1/test_data_fail" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/semaphore_test_boosters-0.9.1/test_data_pass" />
+      </SOURCES>
+    </library>
     <library name="sentry-api (v0.3.4, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sentry-api-0.3.4/bin" />
