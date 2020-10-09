@@ -6308,11 +6308,13 @@
     </library>
     <library name="http-parser (v1.2.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http-parser/1.2.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http-parser-1.2.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http-parser-1.2.1/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http-parser-1.2.1/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http-parser/1.2.1" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http-parser-1.2.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http-parser-1.2.1/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/http-parser-1.2.1/spec" />
