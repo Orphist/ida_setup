@@ -419,6 +419,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/active_model_serializers-b1b253f5a8de/test" />
       </excluded>
     </library>
+    <library name="active_model_serializers (v0.9.7@b1b253, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/active_model_serializers-b1b253f5a8de/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/active_model_serializers-b1b253f5a8de/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/active_model_serializers-b1b253f5a8de/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/active_model_serializers-b1b253f5a8de/lib" />
+      </SOURCES>
+    </library>
     <library name="active_record_query_trace (v1.7, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/active_record_query_trace-1.7/lib" />
@@ -599,6 +609,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/activeadmin-select2-f1a10a6c0cda/.git" />
       </excluded>
     </library>
+    <library name="activeadmin-select2 (v0.1.8@f1a10a, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/activeadmin-select2-f1a10a6c0cda/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/activeadmin-select2-f1a10a6c0cda/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/activeadmin-select2-f1a10a6c0cda/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/activeadmin-select2-f1a10a6c0cda/lib" />
+      </SOURCES>
+    </library>
     <library name="activeadmin_json_editor (v0.0.9, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/activeadmin_json_editor-0.0.9/app" />
@@ -703,6 +723,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/activemodel-6.0.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel-serializers-xml (v1.0.2@694f40, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/activemodel-serializers-xml-694f4071c6b1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/activemodel-serializers-xml-694f4071c6b1/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel-serializers-xml (v1.0.2@936896, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/bundler/gems/activemodel-serializers-xml-93689638c285/lib" />
@@ -734,6 +762,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/activemodel-serializers-xml-93689638c285/.git" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/activemodel-serializers-xml-93689638c285/test" />
       </excluded>
+    </library>
+    <library name="activemodel-serializers-xml (v1.0.2@936896, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/activemodel-serializers-xml-93689638c285/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/activemodel-serializers-xml-93689638c285/lib" />
+      </SOURCES>
     </library>
     <library name="activerecord (v5.0.7.2, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -2636,6 +2672,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/carrierwave_backgrounder-460394b0e2c0/spec" />
       </excluded>
     </library>
+    <library name="carrierwave_backgrounder (v0.4.2@460394, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/carrierwave_backgrounder-460394b0e2c0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/carrierwave_backgrounder-460394b0e2c0/lib" />
+      </SOURCES>
+    </library>
     <library name="chainable_methods (v0.2.1@74eec3, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/chainable_methods-74eec3034662/bin" />
@@ -2749,6 +2793,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/chronolog-ff512010b879/spec" />
       </excluded>
     </library>
+    <library name="chronolog (v0.2.1@ff5120, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/chronolog-ff512010b879/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/chronolog-ff512010b879/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/chronolog-ff512010b879/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/chronolog-ff512010b879/lib" />
+      </SOURCES>
+    </library>
     <library name="chronolog (v0.2.2@f1254d, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/chronolog-f1254d93a771/bin" />
@@ -2805,6 +2859,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/chronolog-b618664ddf4e/.git" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/chronolog-b618664ddf4e/spec" />
       </excluded>
+    </library>
+    <library name="chronolog (v0.3.0@b61866, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/chronolog-b618664ddf4e/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/chronolog-b618664ddf4e/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/chronolog-b618664ddf4e/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/chronolog-b618664ddf4e/lib" />
+      </SOURCES>
     </library>
     <library name="chronolog (v0.3.0@bcea25, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -3167,6 +3231,18 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/common_structure-fb34024d1206/spec" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/common_structure-fb34024d1206/schema" />
       </excluded>
+    </library>
+    <library name="common_structure (v0.3.8@7e5ce5, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/common_structure-7e5ce5491cee/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/common_structure-7e5ce5491cee/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/common_structure-7e5ce5491cee/schema" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/common_structure-7e5ce5491cee/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/common_structure-7e5ce5491cee/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/common_structure-7e5ce5491cee/schema" />
+      </SOURCES>
     </library>
     <library name="concord (v0.1.5, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -4017,6 +4093,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/docx-4edc59976a92/spec" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/docx-4edc59976a92/.github" />
       </excluded>
+    </library>
+    <library name="docx (v0.5.1@248b00, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/docx-248b00fb5dd2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/docx-248b00fb5dd2/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/docx-248b00fb5dd2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/docx-248b00fb5dd2/.github" />
+      </SOURCES>
     </library>
     <library name="domain_name (v0.5.20180417, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
@@ -9087,6 +9173,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/notify-crm-06d3c8d8cdca/spec" />
       </excluded>
     </library>
+    <library name="notify-crm (v0.1.4@06d3c8, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/notify-crm-06d3c8d8cdca/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/notify-crm-06d3c8d8cdca/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/notify-crm-06d3c8d8cdca/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/notify-crm-06d3c8d8cdca/lib" />
+      </SOURCES>
+    </library>
     <library name="oauth (v0.5.4, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/oauth-0.5.4/bin" />
@@ -13681,6 +13777,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/select2-rails-75a69f6c49bb/.git" />
       </excluded>
     </library>
+    <library name="select2-rails (v4.0.3@75a69f, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/select2-rails-75a69f6c49bb/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/select2-rails-75a69f6c49bb/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/select2-rails-75a69f6c49bb/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/select2-rails-75a69f6c49bb/vendor" />
+      </SOURCES>
+    </library>
     <library name="select2-rails (v4.1.0.pre.beta.1@96839c, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/select2-rails-96839c7643f9/lib" />
@@ -13695,6 +13801,16 @@
       <excluded>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/bundler/gems/select2-rails-96839c7643f9/.git" />
       </excluded>
+    </library>
+    <library name="select2-rails (v4.1.0.pre.beta.1@96839c, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/select2-rails-96839c7643f9/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/select2-rails-96839c7643f9/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/select2-rails-96839c7643f9/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/bundler/gems/select2-rails-96839c7643f9/vendor" />
+      </SOURCES>
     </library>
     <library name="semaphore_test_boosters (v0.9.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
