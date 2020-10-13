@@ -4581,6 +4581,24 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/database_cleaner-1.8.5/adapters" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.4.1, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/debase-0.2.4.1/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/debase-0.2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/debase-0.2.4.1/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/debase-0.2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.11, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/debase-ruby_core_source-0.10.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/debase-ruby_core_source-0.10.11/lib" />
+      </SOURCES>
+    </library>
     <library name="debug_inspector (v0.0.3, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
@@ -16795,6 +16813,18 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/rubocop-rspec-1.43.2/config" />
       </SOURCES>
     </library>
+    <library name="ruby-debug-ide (v0.6.1.beta9, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/ruby-debug-ide-0.6.1.beta9/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/ruby-debug-ide-0.6.1.beta9/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/ruby-debug-ide-0.6.1.beta9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/ruby-debug-ide-0.6.1.beta9/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/ruby-debug-ide-0.6.1.beta9/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/ruby-debug-ide-0.6.1.beta9/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-graphviz (v1.2.4, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/ruby-graphviz-1.2.4/bin" />
@@ -17624,6 +17654,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.2.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sassc-2.2.1/test" />
       </excluded>
+    </library>
+    <library name="sassc (v2.2.1, RVM: ruby-2.7.1 [worki]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/sassc-2.2.1/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/sassc-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/sassc-2.2.1/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/sassc-2.2.1/lib" />
+      </SOURCES>
     </library>
     <library name="sassc (v2.4.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
