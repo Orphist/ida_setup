@@ -3,8 +3,6 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
@@ -19,13 +17,14 @@
       <mask>*.mxml</mask>
       <mask>*s.rb</mask>
       <mask>*spec.rb</mask>
-      <mask>*.rb</mask>
-      <mask>.rb</mask>
       <mask>client_rpc.rb</mask>
       <mask>n_rpc.rb</mask>
       <mask>na_rpc.rb</mask>
       <mask>nat_rpc.rb</mask>
       <mask>nats_rpc.rb</mask>
+      <mask>c.rb</mask>
+      <mask>.rb</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
