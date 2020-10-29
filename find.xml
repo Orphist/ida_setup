@@ -1,11 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ex" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,8 +19,16 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.exs</mask>
-      <mask>*.ex</mask>
+      <mask>*s.rb</mask>
+      <mask>*spec.rb</mask>
+      <mask>client_rpc.rb</mask>
+      <mask>n_rpc.rb</mask>
+      <mask>na_rpc.rb</mask>
+      <mask>nat_rpc.rb</mask>
+      <mask>nats_rpc.rb</mask>
+      <mask>c.rb</mask>
+      <mask>.rb</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
