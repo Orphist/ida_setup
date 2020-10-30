@@ -320,14 +320,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/actionpack-6.0.3.2/lib" />
       </SOURCES>
     </library>
-    <library name="actionpack (v6.0.3.3, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/actionpack-6.0.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/actionpack-6.0.3.3/lib" />
-      </SOURCES>
-    </library>
     <library name="actionpack (v6.0.3.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/actionpack-6.0.3.3/lib" />
@@ -441,14 +433,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/actionview-6.0.3.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="actionview (v6.0.3.3, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/actionview-6.0.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/actionview-6.0.3.3/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v6.0.3.3, RVM: ruby-2.6.6 [worki]) [gem]">
@@ -1039,14 +1023,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/activemodel-6.0.3.2/lib" />
       </SOURCES>
     </library>
-    <library name="activemodel (v6.0.3.3, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/activemodel-6.0.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/activemodel-6.0.3.3/lib" />
-      </SOURCES>
-    </library>
     <library name="activemodel (v6.0.3.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/activemodel-6.0.3.3/lib" />
@@ -1173,14 +1149,6 @@
       <excluded>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/activerecord-6.0.3.2/examples" />
       </excluded>
-    </library>
-    <library name="activerecord (v6.0.3.3, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/activerecord-6.0.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/activerecord-6.0.3.3/lib" />
-      </SOURCES>
     </library>
     <library name="activerecord (v6.0.3.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -1437,14 +1405,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/activesupport-6.0.3.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="activesupport (v6.0.3.3, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/activesupport-6.0.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/activesupport-6.0.3.3/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v6.0.3.3, RVM: ruby-2.6.6 [worki]) [gem]">
@@ -2677,16 +2637,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/builder-3.2.3/test" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/builder-3.2.3/rakelib" />
       </excluded>
-    </library>
-    <library name="builder (v3.2.4, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/builder-3.2.4/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/builder-3.2.4/rakelib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/builder-3.2.4/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/builder-3.2.4/rakelib" />
-      </SOURCES>
     </library>
     <library name="builder (v3.2.4, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -4384,16 +4334,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/concurrent-ruby-1.1.6/lib" />
       </SOURCES>
     </library>
-    <library name="concurrent-ruby (v1.1.7, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/concurrent-ruby-1.1.7/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/concurrent-ruby-1.1.7/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/concurrent-ruby-1.1.7/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/concurrent-ruby-1.1.7/lib" />
-      </SOURCES>
-    </library>
     <library name="concurrent-ruby (v1.1.7, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/concurrent-ruby-1.1.7/ext" />
@@ -4593,14 +4533,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/crass-1.0.5/lib" />
       </SOURCES>
     </library>
-    <library name="crass (v1.0.6, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/crass-1.0.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/crass-1.0.6/lib" />
-      </SOURCES>
-    </library>
     <library name="crass (v1.0.6, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/crass-1.0.6/lib" />
@@ -4766,16 +4698,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/database_cleaner-4c2408ffdbbd/db" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/database_cleaner-4c2408ffdbbd/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/database_cleaner-4c2408ffdbbd/features" />
-      </SOURCES>
-    </library>
-    <library name="database_cleaner (v1.8.5, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/database_cleaner-1.8.5/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/database_cleaner-1.8.5/adapters" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/database_cleaner-1.8.5/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/database_cleaner-1.8.5/adapters" />
       </SOURCES>
     </library>
     <library name="database_cleaner (v1.8.5, RVM: ruby-2.6.6 [worki]) [gem]">
@@ -5199,18 +5121,6 @@
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/benchmark" />
       </excluded>
     </library>
-    <library name="did_you_mean (v1.3.0, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/did_you_mean-1.3.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/did_you_mean-1.3.0/tmp" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/did_you_mean-1.3.0/benchmark" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/did_you_mean-1.3.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/did_you_mean-1.3.0/tmp" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/did_you_mean-1.3.0/benchmark" />
-      </SOURCES>
-    </library>
     <library name="did_you_mean (v1.3.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/doc" />
@@ -5321,18 +5231,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/diff-lcs-1.3/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/diff-lcs-1.3/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/diff-lcs-1.3/autotest" />
-      </SOURCES>
-    </library>
-    <library name="diff-lcs (v1.4.4, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/diff-lcs-1.4.4/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/diff-lcs-1.4.4/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/diff-lcs-1.4.4/autotest" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/diff-lcs-1.4.4/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/diff-lcs-1.4.4/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/diff-lcs-1.4.4/autotest" />
       </SOURCES>
     </library>
     <library name="diff-lcs (v1.4.4, RVM: ruby-2.6.6 [worki]) [gem]">
@@ -6559,14 +6457,6 @@
       <excluded>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/erubi-1.9.0/test" />
       </excluded>
-    </library>
-    <library name="erubi (v1.9.0, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/erubi-1.9.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/erubi-1.9.0/lib" />
-      </SOURCES>
     </library>
     <library name="erubi (v1.9.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -9103,14 +8993,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/i18n-1.8.3/lib" />
       </SOURCES>
     </library>
-    <library name="i18n (v1.8.5, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/i18n-1.8.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/i18n-1.8.5/lib" />
-      </SOURCES>
-    </library>
     <library name="i18n (v1.8.5, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/i18n-1.8.5/lib" />
@@ -10820,16 +10702,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/loofah-2.6.0/benchmark" />
       </excluded>
     </library>
-    <library name="loofah (v2.7.0, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/loofah-2.7.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/loofah-2.7.0/benchmark" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/loofah-2.7.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/loofah-2.7.0/benchmark" />
-      </SOURCES>
-    </library>
     <library name="loofah (v2.7.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/loofah-2.7.0/lib" />
@@ -11083,16 +10955,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/method_source-0.9.2/lib" />
       </SOURCES>
     </library>
-    <library name="method_source (v1.0.0, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/method_source-1.0.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/method_source-1.0.0/.circleci" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/method_source-1.0.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/method_source-1.0.0/.circleci" />
-      </SOURCES>
-    </library>
     <library name="method_source (v1.0.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/method_source-1.0.0/lib" />
@@ -11307,16 +11169,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/mini_portile2-2.4.0/concourse" />
       </SOURCES>
     </library>
-    <library name="mini_portile2 (v2.4.0, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/mini_portile2-2.4.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/mini_portile2-2.4.0/concourse" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/mini_portile2-2.4.0/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/mini_portile2-2.4.0/concourse" />
-      </SOURCES>
-    </library>
     <library name="mini_portile2 (v2.4.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/mini_portile2-2.4.0/lib" />
@@ -11381,14 +11233,6 @@
       <excluded>
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
       </excluded>
-    </library>
-    <library name="minitest (v5.11.3, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/minitest-5.11.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/minitest-5.11.3/lib" />
-      </SOURCES>
     </library>
     <library name="minitest (v5.11.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -11491,14 +11335,6 @@
       <excluded>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/minitest-5.14.1/test" />
       </excluded>
-    </library>
-    <library name="minitest (v5.14.2, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/minitest-5.14.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/minitest-5.14.2/lib" />
-      </SOURCES>
     </library>
     <library name="minitest (v5.14.2, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -12035,16 +11871,6 @@
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/net-telnet-0.2.0/bin" />
       </excluded>
     </library>
-    <library name="net-telnet (v0.2.0, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/net-telnet-0.2.0/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/net-telnet-0.2.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/net-telnet-0.2.0/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/net-telnet-0.2.0/lib" />
-      </SOURCES>
-    </library>
     <library name="net-telnet (v0.2.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/net-telnet-0.2.0/bin" />
@@ -12355,22 +12181,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/patches" />
-      </SOURCES>
-    </library>
-    <library name="nokogiri (v1.10.10, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.10" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/nokogiri-1.10.10/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/nokogiri-1.10.10/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/nokogiri-1.10.10/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/nokogiri-1.10.10/patches" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.10" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/nokogiri-1.10.10/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/nokogiri-1.10.10/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/nokogiri-1.10.10/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/nokogiri-1.10.10/patches" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.10.10, RVM: ruby-2.6.6 [worki]) [gem]">
@@ -13443,18 +13253,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/pg-1.1.4/lib" />
       </SOURCES>
     </library>
-    <library name="pg (v1.2.3, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.2.3" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/pg-1.2.3/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/pg-1.2.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.2.3" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/pg-1.2.3/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/pg-1.2.3/lib" />
-      </SOURCES>
-    </library>
     <library name="piece_pipe (v0.2.1@be74d5, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/piece_pipe-be74d5af959d/lib" />
@@ -13577,16 +13375,6 @@
       <excluded>
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/power_assert-1.1.3/bin" />
       </excluded>
-    </library>
-    <library name="power_assert (v1.1.3, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/power_assert-1.1.3/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/power_assert-1.1.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/power_assert-1.1.3/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/power_assert-1.1.3/lib" />
-      </SOURCES>
     </library>
     <library name="power_assert (v1.1.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -14426,20 +14214,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/rack-2.2.2/example" />
       </SOURCES>
     </library>
-    <library name="rack (v2.2.3, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rack-2.2.3/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rack-2.2.3/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rack-2.2.3/contrib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rack-2.2.3/example" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rack-2.2.3/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rack-2.2.3/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rack-2.2.3/contrib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rack-2.2.3/example" />
-      </SOURCES>
-    </library>
     <library name="rack (v2.2.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rack-2.2.3/bin" />
@@ -14677,14 +14451,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rack-test-1.1.0/lib" />
       </SOURCES>
     </library>
-    <library name="rack-test (v1.1.0, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rack-test-1.1.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rack-test-1.1.0/lib" />
-      </SOURCES>
-    </library>
     <library name="rack-test (v1.1.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rack-test-1.1.0/lib" />
@@ -14790,14 +14556,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rails-dom-testing-2.0.3/lib" />
       </SOURCES>
     </library>
-    <library name="rails-dom-testing (v2.0.3, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rails-dom-testing-2.0.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rails-dom-testing-2.0.3/lib" />
-      </SOURCES>
-    </library>
     <library name="rails-dom-testing (v2.0.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rails-dom-testing-2.0.3/lib" />
@@ -14878,14 +14636,6 @@
       <excluded>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/rails-html-sanitizer-1.3.0/test" />
       </excluded>
-    </library>
-    <library name="rails-html-sanitizer (v1.3.0, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rails-html-sanitizer-1.3.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rails-html-sanitizer-1.3.0/lib" />
-      </SOURCES>
     </library>
     <library name="rails-html-sanitizer (v1.3.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -15036,16 +14786,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/railties-6.0.3.2/exe" />
       </excluded>
     </library>
-    <library name="railties (v6.0.3.3, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/railties-6.0.3.3/exe" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/railties-6.0.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/railties-6.0.3.3/exe" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/railties-6.0.3.3/lib" />
-      </SOURCES>
-    </library>
     <library name="railties (v6.0.3.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/railties-6.0.3.3/exe" />
@@ -15177,18 +14917,6 @@
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/rake-12.3.3/exe" />
       </excluded>
     </library>
-    <library name="rake (v12.3.3, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/rake-12.3.3/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/rake-12.3.3/exe" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/rake-12.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/rake-12.3.3/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/rake-12.3.3/exe" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/rake-12.3.3/lib" />
-      </SOURCES>
-    </library>
     <library name="rake (v12.3.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/rake-12.3.3/bin" />
@@ -15248,20 +14976,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/rake-13.0.0/exe" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/rake-13.0.0/.github" />
       </excluded>
-    </library>
-    <library name="rake (v13.0.1, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rake-13.0.1/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rake-13.0.1/exe" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rake-13.0.1/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rake-13.0.1/.github" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rake-13.0.1/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rake-13.0.1/exe" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rake-13.0.1/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rake-13.0.1/.github" />
-      </SOURCES>
     </library>
     <library name="rake (v13.0.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -16515,14 +16229,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/rexml-3.2.4/lib" />
       </SOURCES>
     </library>
-    <library name="rspec (v3.9.0, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rspec-3.9.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rspec-3.9.0/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec-activejob (v0.6.1, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rspec-activejob-0.6.1/lib" />
@@ -16606,16 +16312,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/rspec-core-3.9.1/lib" />
       </SOURCES>
     </library>
-    <library name="rspec-core (v3.9.2, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rspec-core-3.9.2/exe" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rspec-core-3.9.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rspec-core-3.9.2/exe" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rspec-core-3.9.2/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec-core (v3.9.2, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rspec-core-3.9.2/exe" />
@@ -16695,14 +16391,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/rspec-expectations-3.9.1/lib" />
       </SOURCES>
     </library>
-    <library name="rspec-expectations (v3.9.2, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rspec-expectations-3.9.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rspec-expectations-3.9.2/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec-expectations (v3.9.2, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rspec-expectations-3.9.2/lib" />
@@ -16763,14 +16451,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/rspec-mocks-efc79c5e7bf4/script" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/rspec-mocks-efc79c5e7bf4/features" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/rspec-mocks-efc79c5e7bf4/benchmarks" />
-      </SOURCES>
-    </library>
-    <library name="rspec-mocks (v3.9.1, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rspec-mocks-3.9.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rspec-mocks-3.9.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.9.1, RVM: ruby-2.6.6 [worki]) [gem]">
@@ -16939,14 +16619,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/rspec-support-3.9.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec-support (v3.9.3, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rspec-support-3.9.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/rspec-support-3.9.3/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.9.3, RVM: ruby-2.6.6 [worki]) [gem]">
@@ -19963,16 +19635,6 @@
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/sample" />
       </excluded>
     </library>
-    <library name="test-unit (v3.2.9, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/test-unit-3.2.9/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/test-unit-3.2.9/sample" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/test-unit-3.2.9/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/test-unit-3.2.9/sample" />
-      </SOURCES>
-    </library>
     <library name="test-unit (v3.2.9, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/doc" />
@@ -20105,16 +19767,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thor-0.20.3/lib" />
       </SOURCES>
     </library>
-    <library name="thor (v1.0.1, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/thor-1.0.1/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/thor-1.0.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/thor-1.0.1/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/thor-1.0.1/lib" />
-      </SOURCES>
-    </library>
     <library name="thor (v1.0.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/thor-1.0.1/bin" />
@@ -20175,20 +19827,6 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thread_safe-0.3.6/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thread_safe-0.3.6/tasks" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/thread_safe-0.3.6/yard-template" />
-      </SOURCES>
-    </library>
-    <library name="thread_safe (v0.3.6, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/thread_safe-0.3.6/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/thread_safe-0.3.6/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/thread_safe-0.3.6/tasks" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/thread_safe-0.3.6/yard-template" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/thread_safe-0.3.6/ext" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/thread_safe-0.3.6/lib" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/thread_safe-0.3.6/tasks" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/thread_safe-0.3.6/yard-template" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.6, RVM: ruby-2.6.6 [worki]) [gem]">
@@ -20631,14 +20269,6 @@
       <excluded>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/tzinfo-1.2.5/test" />
       </excluded>
-    </library>
-    <library name="tzinfo (v1.2.7, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/tzinfo-1.2.7/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/tzinfo-1.2.7/lib" />
-      </SOURCES>
     </library>
     <library name="tzinfo (v1.2.7, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -21916,16 +21546,6 @@
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/bin" />
       </excluded>
     </library>
-    <library name="xmlrpc (v0.3.0, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/xmlrpc-0.3.0/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/xmlrpc-0.3.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/xmlrpc-0.3.0/bin" />
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@global/gems/xmlrpc-0.3.0/lib" />
-      </SOURCES>
-    </library>
     <library name="xmlrpc (v0.3.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/bin" />
@@ -22172,14 +21792,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/zeitwerk-2.3.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="zeitwerk (v2.4.0, RVM: ruby-2.6.6 [immigrate]) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/zeitwerk-2.4.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/rvm/gems/ruby-2.6.6@immigrate/gems/zeitwerk-2.4.0/lib" />
       </SOURCES>
     </library>
     <library name="zeitwerk (v2.4.0, RVM: ruby-2.6.6 [worki]) [gem]">
