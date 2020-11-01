@@ -19440,6 +19440,18 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/streamio-ffmpeg-3.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="strings-ansi (v0.2.0, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/strings-ansi-0.2.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/strings-ansi-0.2.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/strings-ansi-0.2.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/strings-ansi-0.2.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/strings-ansi-0.2.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/strings-ansi-0.2.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="sucker_punch (v2.1.1, RVM: ruby-2.6.5 [percolator]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/sucker_punch-2.1.1/lib" />
@@ -20138,6 +20150,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/ttfunk-1.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="tty-table (v0.12.0@052d27, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/tty-table-052d2725d730/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/tty-table-052d2725d730/tasks" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/tty-table-052d2725d730/.github" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/tty-table-052d2725d730/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/tty-table-052d2725d730/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/tty-table-052d2725d730/tasks" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/tty-table-052d2725d730/.github" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/tty-table-052d2725d730/benchmarks" />
       </SOURCES>
     </library>
     <library name="tty-which (v0.4.1, RVM: ruby-2.6.6 [worki]) [gem]">
