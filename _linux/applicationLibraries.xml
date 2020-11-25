@@ -21009,6 +21009,22 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/gems/scenic-1.5.4/.github" />
       </SOURCES>
     </library>
+    <library name="scout_apm (v2.6.10, RVM: ruby-2.7.2 [worki]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/scout_apm/2.6.10" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/gems/scout_apm-2.6.10/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/gems/scout_apm-2.6.10/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/gems/scout_apm-2.6.10/data" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/gems/scout_apm-2.6.10/gems" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/scout_apm/2.6.10" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/gems/scout_apm-2.6.10/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/gems/scout_apm-2.6.10/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/gems/scout_apm-2.6.10/data" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/gems/scout_apm-2.6.10/gems" />
+      </SOURCES>
+    </library>
     <library name="select2-rails (v4.0.3@75a69f, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/bundler/gems/select2-rails-75a69f6c49bb/lib" />
