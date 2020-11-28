@@ -1,26 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="put-charting-library-min-here" type="PLAIN_TEXT" />
-      <mapping pattern="feed_type_validator.rb" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".gemrc" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
-      <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping pattern="lib/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern=".rspec-local" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping ext="arb" type="PLAIN_TEXT" />
+      <mapping pattern=".gemrc" type="PLAIN_TEXT" />
+      <mapping pattern="feed_type_validator.rb" type="PLAIN_TEXT" />
+      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
+      <mapping pattern="put-charting-library-min-here" type="PLAIN_TEXT" />
+      <mapping pattern=".rspec" type="PLAIN_TEXT" />
+      <mapping pattern=".rspec-local" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="fb2" type="PLAIN_TEXT" />
       <mapping ext="fst" type="PLAIN_TEXT" />
+      <mapping ext="arb" type="PLAIN_TEXT" />
       <mapping ext="content" type="PLAIN_TEXT" />
-      <mapping ext="markdown" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
-      <mapping pattern="feed_type_validator" type="Ruby" />
       <mapping pattern="models/fb2_book.rb" type="Ruby" />
+      <mapping pattern="feed_type_validator" type="Ruby" />
       <mapping ext="pck" type="SQL" />
     </extensionMap>
   </component>
