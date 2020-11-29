@@ -1,6 +1,17 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="ctrl #1000441" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="ctrl #100043c" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
+    <keyboard-shortcut first-keystroke="alt #1000445" />
   </action>
   <action id="ChangesView.Shelve">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
@@ -10,10 +21,19 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl #1000432" />
+  </action>
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="DecrementWindowHeight" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="ctrl #1000441" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl #100043c" />
   </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorJoinLines" />
@@ -21,23 +41,57 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="ctrl #1000430" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="shift ctrl #1000430" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
+    <keyboard-shortcut first-keystroke="alt #100044a" />
   </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
+    <keyboard-shortcut first-keystroke="shift ctrl #1000441" />
   </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
+    <keyboard-shortcut first-keystroke="ctrl alt #1000447" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl #100044c" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="shift ctrl #100044c" />
+  </action>
+  <action id="IncrementWindowHeight" />
   <action id="MethodHierarchy" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="RunToCursor" />
   <action id="ShowSettings" />
   <action id="Vcs.ShowHistoryForBlock">
@@ -46,4 +100,7 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
 </keymap>
