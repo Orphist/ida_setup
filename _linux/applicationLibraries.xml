@@ -5153,6 +5153,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/crass-1.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="crass (v1.0.6, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/crass-1.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/crass-1.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="crass (v1.0.6, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/crass-1.0.6/lib" />
@@ -12843,6 +12851,18 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/mini_mime-1.0.2/bench" />
       </excluded>
     </library>
+    <library name="mini_mime (v1.0.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/mini_mime-1.0.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/mini_mime-1.0.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/mini_mime-1.0.2/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/mini_mime-1.0.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/mini_mime-1.0.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/mini_mime-1.0.2/bench" />
+      </SOURCES>
+    </library>
     <library name="mini_mime (v1.0.2, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/mini_mime-1.0.2/bin" />
@@ -14011,6 +14031,22 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/nio4r-2.5.2/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/nio4r-2.5.2/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/nio4r-2.5.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="nio4r (v2.5.4, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.5.4" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.5.4/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.5.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.5.4/.github" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.5.4/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.5.4" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.5.4/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.5.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.5.4/.github" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nio4r-2.5.4/rakelib" />
       </SOURCES>
     </library>
     <library name="nio4r (v2.5.4, RVM: ruby-2.6.6 [worki]) [gem]">
@@ -17161,6 +17197,18 @@
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.5/lib/ruby/gems/2.6.0/gems/rake-12.3.2/doc" />
         <root url="file:///usr/local/rvm/rubies/ruby-2.6.5/lib/ruby/gems/2.6.0/gems/rake-12.3.2/exe" />
       </excluded>
+    </library>
+    <library name="rake (v12.3.3, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rake-12.3.3/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rake-12.3.3/exe" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rake-12.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rake-12.3.3/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rake-12.3.3/exe" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rake-12.3.3/lib" />
+      </SOURCES>
     </library>
     <library name="rake (v12.3.3, RVM: ruby-2.6.6 [global]) [gem]">
       <CLASSES>
@@ -23373,6 +23421,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/gems/tzinfo-1.2.7/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v1.2.8, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/tzinfo-1.2.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/tzinfo-1.2.8/lib" />
+      </SOURCES>
+    </library>
     <library name="uglifier (v4.2.0, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/uglifier-4.2.0/lib" />
@@ -23836,6 +23892,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/vorpal-1.0.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="vorpal (v1.2.1, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/vorpal-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/vorpal-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="warden (v1.2.8, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/warden-1.2.8/lib" />
@@ -24157,6 +24221,20 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/webpacker-4.0.7/package" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/webpacker-4.0.7/gemfiles" />
       </excluded>
+    </library>
+    <library name="webpacker (v5.1.1@eaf3aa, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/webpacker-eaf3aa8ab465/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/webpacker-eaf3aa8ab465/.github" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/webpacker-eaf3aa8ab465/package" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/webpacker-eaf3aa8ab465/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/webpacker-eaf3aa8ab465/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/webpacker-eaf3aa8ab465/.github" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/webpacker-eaf3aa8ab465/package" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/bundler/gems/webpacker-eaf3aa8ab465/gemfiles" />
+      </SOURCES>
     </library>
     <library name="webrick (v1.4.2, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
