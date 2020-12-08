@@ -118,6 +118,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/actioncable-5.1.6.1/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.2.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/actioncable-5.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/actioncable-5.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="actioncable (v5.2.3, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/actioncable-5.2.3/lib" />
@@ -274,6 +282,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/actionmailer-5.1.6.1/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v5.2.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/actionmailer-5.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/actionmailer-5.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v5.2.3, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/actionmailer-5.2.3/lib" />
@@ -344,6 +360,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/actionpack-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v5.2.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/actionpack-5.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/actionpack-5.2.2/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v5.2.3, RVM: ruby-2.6.5 [finup]) [gem]">
@@ -479,6 +503,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/actionview-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.2.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/actionview-5.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/actionview-5.2.2/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v5.2.3, RVM: ruby-2.6.5 [finup]) [gem]">
@@ -1083,6 +1115,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activejob-5.1.6.1/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.2.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activejob-5.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activejob-5.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v5.2.3, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/activejob-5.2.3/lib" />
@@ -1153,6 +1193,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activemodel-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.2.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activemodel-5.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activemodel-5.2.2/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v5.2.3, RVM: ruby-2.6.5 [finup]) [gem]">
@@ -1286,6 +1334,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activerecord-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v5.2.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activerecord-5.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activerecord-5.2.2/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v5.2.3, RVM: ruby-2.6.5 [finup]) [gem]">
@@ -1473,6 +1529,20 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/activerecord-nulldb-adapter-0.4.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="activestorage (v5.2.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activestorage-5.2.2/db" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activestorage-5.2.2/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activestorage-5.2.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activestorage-5.2.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activestorage-5.2.2/db" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activestorage-5.2.2/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activestorage-5.2.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activestorage-5.2.2/config" />
+      </SOURCES>
+    </library>
     <library name="activestorage (v5.2.3, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/activestorage-5.2.3/db" />
@@ -1587,6 +1657,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activesupport-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.2.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activesupport-5.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/activesupport-5.2.2/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v5.2.3, RVM: ruby-2.6.5 [finup]) [gem]">
@@ -2292,6 +2370,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/arel-9.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="arel (v9.0.0, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/arel-9.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/arel-9.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="Ascii85 (v1.0.3, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/Ascii85-1.0.3/bin" />
@@ -2985,6 +3071,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/builder-3.2.3/test" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/builder-3.2.3/rakelib" />
       </excluded>
+    </library>
+    <library name="builder (v3.2.4, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/builder-3.2.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/builder-3.2.4/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/builder-3.2.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/builder-3.2.4/rakelib" />
+      </SOURCES>
     </library>
     <library name="builder (v3.2.4, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -4918,6 +5014,16 @@
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/concurrent-ruby-1.1.6/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/concurrent-ruby-1.1.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="concurrent-ruby (v1.1.7, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/concurrent-ruby-1.1.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/concurrent-ruby-1.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/concurrent-ruby-1.1.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/concurrent-ruby-1.1.7/lib" />
       </SOURCES>
     </library>
     <library name="concurrent-ruby (v1.1.7, RVM: ruby-2.6.6 [worki]) [gem]">
@@ -7359,6 +7465,14 @@
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/gems/equalizer-0.0.11/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/gems/equalizer-0.0.11/config" />
+      </SOURCES>
+    </library>
+    <library name="erubi (v1.10.0, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/erubi-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/erubi-1.10.0/lib" />
       </SOURCES>
     </library>
     <library name="erubi (v1.8.0, RVM: ruby-2.6.5 [percolator]) [gem]">
@@ -10397,6 +10511,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/i18n-1.8.3/lib" />
       </SOURCES>
     </library>
+    <library name="i18n (v1.8.5, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/i18n-1.8.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/i18n-1.8.5/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n (v1.8.5, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/i18n-1.8.5/lib" />
@@ -12392,6 +12514,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/gems/loofah-2.7.0/benchmark" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.8.0, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/loofah-2.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/loofah-2.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="mail (v2.7.1, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/mail-2.7.1/lib" />
@@ -12477,6 +12607,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/marcel-0.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="marcel (v0.3.3, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/marcel-0.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/marcel-0.3.3/lib" />
       </SOURCES>
     </library>
     <library name="marcel (v0.3.3, RVM: ruby-2.6.6 [worki]) [gem]">
@@ -13113,6 +13251,14 @@
       <excluded>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/minitest-5.14.1/test" />
       </excluded>
+    </library>
+    <library name="minitest (v5.14.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/minitest-5.14.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/minitest-5.14.2/lib" />
+      </SOURCES>
     </library>
     <library name="minitest (v5.14.2, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
@@ -14111,6 +14257,22 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/lib" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.1/patches" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.10.10, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.10" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.10/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.10/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.10/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.10/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.10" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.10/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.10/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.10/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/nokogiri-1.10.10/patches" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.10.10, RVM: ruby-2.6.6 [worki]) [gem]">
@@ -16406,6 +16568,20 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/rack-2.2.2/example" />
       </SOURCES>
     </library>
+    <library name="rack (v2.2.3, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rack-2.2.3/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rack-2.2.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rack-2.2.3/contrib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rack-2.2.3/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rack-2.2.3/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rack-2.2.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rack-2.2.3/contrib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rack-2.2.3/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.2.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rack-2.2.3/bin" />
@@ -16733,6 +16909,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rails-5.1.6.1" />
       </SOURCES>
     </library>
+    <library name="rails (v5.2.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rails-5.2.2" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rails-5.2.2" />
+      </SOURCES>
+    </library>
     <library name="rails (v5.2.3, RVM: ruby-2.6.5 [finup]) [gem]">
       <CLASSES />
       <SOURCES />
@@ -16901,6 +17085,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/rails-html-sanitizer-1.3.0/test" />
       </excluded>
     </library>
+    <library name="rails-html-sanitizer (v1.3.0, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rails-html-sanitizer-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/rails-html-sanitizer-1.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-html-sanitizer (v1.3.0, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/rails-html-sanitizer-1.3.0/lib" />
@@ -17040,6 +17232,16 @@
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/railties-5.1.6.1/exe" />
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/railties-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.2.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/railties-5.2.2/exe" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/railties-5.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/railties-5.2.2/exe" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/railties-5.2.2/lib" />
       </SOURCES>
     </library>
     <library name="railties (v5.2.3, RVM: ruby-2.6.5 [finup]) [gem]">
@@ -21148,6 +21350,14 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.7.2@worki/bundler/gems/select2-rails-96839c7643f9/vendor" />
       </SOURCES>
     </library>
+    <library name="semantic_range (v2.3.1, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/semantic_range-2.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/semantic_range-2.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="semaphore_test_boosters (v0.9.1, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/semaphore_test_boosters-0.9.1/bin" />
@@ -22104,6 +22314,16 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.5@finup/gems/sprockets-4.0.0/bin" />
       </excluded>
     </library>
+    <library name="sprockets (v4.0.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/sprockets-4.0.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/sprockets-4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/sprockets-4.0.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/sprockets-4.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets (v4.0.2, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/sprockets-4.0.2/bin" />
@@ -22163,6 +22383,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/sprockets-rails-3.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v3.2.2, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/sprockets-rails-3.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/sprockets-rails-3.2.2/lib" />
       </SOURCES>
     </library>
     <library name="sprockets-rails (v3.2.2, RVM: ruby-2.6.6 [worki]) [gem]">
@@ -24426,6 +24654,18 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.6.6@worki/gems/websocket-driver-0.7.2/ext" />
       </excluded>
     </library>
+    <library name="websocket-driver (v0.7.3, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.3" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-driver-0.7.3/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-driver-0.7.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.3" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-driver-0.7.3/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-driver-0.7.3/lib" />
+      </SOURCES>
+    </library>
     <library name="websocket-driver (v0.7.3, RVM: ruby-2.6.6 [worki]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.3" />
@@ -24508,6 +24748,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.7.1@worki/gems/websocket-extensions-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket-extensions (v0.1.5, RVM: ruby-2.6.5 [percolator]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-extensions-0.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.6.5@percolator/gems/websocket-extensions-0.1.5/lib" />
       </SOURCES>
     </library>
     <library name="websocket-extensions (v0.1.5, RVM: ruby-2.6.6 [worki]) [gem]">
